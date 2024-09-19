@@ -1,0 +1,15 @@
+git clone https://github.com/AizyBlight/labys.git
+git config --global user.email "aizyblight@gmail.com"
+git config --global user.name "AizyBlight"
+git add .
+dir
+cd labys
+move lab1 labys
+move lab1\ labys\lab1
+move D:\lab1\ labys\lab1
+move D:\lab1 labys\lab1
+move D:\lab1 D:\labys
+git add .
+git commit -m "lab1"
+git push
+doskey /history > historylab1.txt
