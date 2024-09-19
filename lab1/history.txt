@@ -1,0 +1,11 @@
+copy con first.txt
+cnvuhw
+iewhvn
+ieidk
+ans
+dj
+
+sort first.txt
+sort first.txt > sort.txt
+doskey /history
+doskey /history > history.txt

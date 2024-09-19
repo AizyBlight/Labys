@@ -1,0 +1,4 @@
+dir C:\Windows\*.exe
+copy C:\Windows\*.exe
+doskey /history
+doskey /history > historyzad7.txt
